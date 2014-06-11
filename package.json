@@ -1,6 +1,6 @@
 {
   "name": "lodash",
-  "version": "2.5.0-pre",
+  "version": "2.5.0a",
   "description": "A utility library delivering consistency, customization, performance, & extras.",
   "homepage": "http://lodash.com/",
   "license": "MIT",
@@ -15,7 +15,7 @@
     "Mathias Bynens <mathias@qiwi.be> (http://mathiasbynens.be/)"
   ],
   "bugs": "https://github.com/lodash/lodash/issues",
-  "repository": "lodash/lodash",
+  "repository": "tavwizard/lodash",
   "scripts": { "test": "echo \"See the repository CONTRIBUTING.md for testing instructions.\"" },
   "engines": ["node", "rhino"],
   "files": [
